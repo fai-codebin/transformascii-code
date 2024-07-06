@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pywinctl
+websockets
+asyncio
+scikit-image
+uvloop; sys_platform != 'win32' and sys_platform != 'windows' # uvloop currently dont support windows

@@ -1,0 +1,14 @@
+{
+  "name": "transformascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "type": "module",
+  "author": "",
+  "dependencies": {
+    "rvfc-polyfill": "^1.0.7"
+  }
+}
