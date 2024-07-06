@@ -27,9 +27,3 @@ python src/cli.py
 ## Disclaimer
 
 I have only tested this in windows, if it doesnt work in another operating system, then its probably time for you to fix it and create a PR 😉.
-
-## Youtube
-
-The youtube video was created and written using [motion canvas](https://motioncanvas.io/) and is available in the [youtube](./youtube/) dir, take a look in that directory if you want to see and find out how i created the video.
-
-Just in case you want to ask how to run it, please dont, find out about it yourself, i have been good enough to share the video source code with you.
