@@ -2,7 +2,7 @@
 
 This is a (just for fun) web + cli application to convert a video input as an ascii video in respect to the window size and position (to make it even more fun).
 
-This is basically a companion code to a youtube video that you can see here -> TBA.
+This is basically a companion code to a youtube video that you can see here -> https://youtu.be/_fva7bxc0dk.
 
 ## How to run
 
